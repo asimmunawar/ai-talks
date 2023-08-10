@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Neuro-Symbolic AI Summer School 2023
+title: Machine Learning Course
 email: asim **AT** ibm --DOT-- com
 description: >- # this means to ignore newlines until "baseurl:"
   Reach out to the organizers for any information on the workshop.

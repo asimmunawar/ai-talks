@@ -19,4 +19,4 @@ xxxx
 
 # Jupyter Notebooks
 
-[https://github.com/asimmunawar/ml-course/src/jupyter-notebooks](https://github.com/asimmunawar/ml-course/src/jupyter-notebooks)
+[https://github.com/asimmunawar/ml-course/src/jupyter-notebooks](https://github.com/asimmunawar/ml-course/tree/main/src/jupyter-notebooks)

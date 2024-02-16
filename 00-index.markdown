@@ -9,19 +9,9 @@ permalink: "index.html"
 
 ## About me
 
-Hi, I am Asim Munawar, my short bio is:
+Hi, I am Asim Munawar, here is my short bio:
 
-_"Dr. Asim Munawar is a research lead for the alignment of generative AI for enterprise applications. He has served
-in various roles at IBM research, including manager, and program director. Dr. Munawar received his Ph.D. from
-Hokkaido University and joined IBM Research in 2012. His main interest is in the creation of next-generation AI by
-combining symbolic and learning-based methods including Generative AI. He has over 60 publications in journals
-and peer-reviewed conferences. He has organized many events in the past including a session on deep learning at
-RSJ (Robotics Society of Japan) conference 2018 and 2019, KBRL (Knowledge Based RL) workshop at IJCAI 2019,
-Compositional Generalization (KBCG) workshop at IJCAI 2023, and Neuro-Symbolic Learning and Reasoning in the
-era of LLMs workshop at AAAI 2024. Dr. Munawar also has experience of organizing large-scale virtual workshops
-(2022, 2023) and summer school (2022, 2023) on neuro-symbolic AI. He has extensive experience serving as a PC for
-international conferences including IJCAI, AAAI, IROS, ICRA, WACV. He also served as a session chair in various
-venues and has delivered numerous keynote talks."_
+_"Dr. Asim Munawar is a research lead for the alignment of generative AI for enterprise applications. He has served in various roles at IBM research, including manager, and program director. Dr. Munawar received his Ph.D. from Hokkaido University and joined IBM Research in 2012. His main interest is in the creation of next-generation AI by combining symbolic and learning-based methods including Generative AI. Currently at IBM Research, he is spearheading the research on making large language models usable for enterprise applications. Being a thought leader in AI, she serve on the advisory board of multiple organizations and often deliver keynote talks. He has 60+ peer-reviewed publications and he hold 20+ AI related patents."_
 
 
 to learn more about me, you can visit https://asimmunawar.github.io/

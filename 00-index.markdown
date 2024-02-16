@@ -7,24 +7,21 @@ title: Home
 permalink: "index.html"
 ---
 
-## About me
-
 Hi, I am Asim Munawar, here is my short bio:
 
 _"Dr. Asim Munawar is a research lead for the alignment of generative AI for enterprise applications. He has served in various roles at IBM research, including manager, and program director. Dr. Munawar received his Ph.D. from Hokkaido University and joined IBM Research in 2012. His main interest is in the creation of next-generation AI by combining symbolic and learning-based methods including Generative AI. Currently at IBM Research, he is spearheading the research on making large language models usable for enterprise applications. Being a thought leader in AI, she serve on the advisory board of multiple organizations and often deliver keynote talks. He has 60+ peer-reviewed publications and he hold 20+ AI related patents."_
 
+To learn more about me, you can visit https://asimmunawar.github.io/
 
-to learn more about me, you can visit https://asimmunawar.github.io/
-
-
-## About this repository
-
-I 
+## PPTX for YouTube videos
+[https://github.com/asimmunawar/ml-course/docs/YouTubeVideos](https://github.com/asimmunawar/ml-course/docs/YouTubeVideos)
 
 
-xxxx
-
-
-# Jupyter Notebooks
+## Jupyter Notebooks
 
 [https://github.com/asimmunawar/ml-course/src/jupyter-notebooks](https://github.com/asimmunawar/ml-course/tree/main/src/jupyter-notebooks)
+
+
+---
+
+Feel free to reach out to me on LinkedIn if you have any suggestions/comments.

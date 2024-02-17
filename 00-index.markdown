@@ -17,11 +17,14 @@ To learn more about me, you can visit https://asimmunawar.github.io/
 [https://github.com/asimmunawar/ml-course/docs/YouTubeVideos](https://github.com/asimmunawar/ml-course/docs/YouTubeVideos)
 
 
-## Jupyter Notebooks
+## [Jupyter Notebooks](https://github.com/asimmunawar/ml-course/tree/main/src/jupyter-notebooks)
 
-[https://github.com/asimmunawar/ml-course/src/jupyter-notebooks](https://github.com/asimmunawar/ml-course/tree/main/src/jupyter-notebooks)
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 
----
-
-Feel free to reach out to me on LinkedIn if you have any suggestions/comments.
+## Help me improve
+You are welcome to share any suggestions/comments with me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/).

@@ -27,10 +27,14 @@ To learn more about me, visit [https://asimmunawar.github.io/](https://asimmunaw
 
 ## [Jupyter Notebooks](https://github.com/asimmunawar/ml-course/tree/main/src/jupyter-notebooks)
 
-| xxx    | xxx |
+| Script    | Description |
 | ------ | ------- |
-| xxx.   | xxx    |
+| [softmax.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/softmax.ipynb)   | Explains how softmax works.    |
+| [activation-functions.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/activation-functions.ipynb)   | Explains Activation functions commonly used in Deep Learning.   |
 
+
+| [dot-product.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/dot-product.ipynb)   | Shows how dot product works.   |
+| [bahdanau-attention.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/bahdanau-attention.ipynb)/[luong-attention.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/luong-attention.ipynb) | Shows the working of different kinds of attentions |
 
 
 ## Help me improve

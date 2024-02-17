@@ -11,25 +11,22 @@ Hi, I am Asim Munawar, here is my short bio:
 
 _"Dr. Asim Munawar is a research lead for the alignment of generative AI for enterprise applications. He has served in various roles at IBM research, including manager, and program director. Dr. Munawar received his Ph.D. from Hokkaido University and joined IBM Research in 2012. His main interest is in the creation of next-generation AI by combining symbolic and learning-based methods including Generative AI. Currently at IBM Research, he is spearheading the research on making large language models usable for enterprise applications. Being a thought leader in AI, she serve on the advisory board of multiple organizations and often deliver keynote talks. He has 60+ peer-reviewed publications and he hold 20+ AI related patents."_
 
-To learn more about me, you can visit https://asimmunawar.github.io/
+To learn more about me, visit [https://asimmunawar.github.io/](https://asimmunawar.github.io/)
 
-## [AI Talks and Slides (PPTX)](https://github.com/asimmunawar/ml-course/docs/YouTubeVideos)
+## [AI Talks and Slides (PPTX)](https://github.com/asimmunawar/ml-course/docs/YouTubeVideos) - (English)
 
-| Title    | Date | Video | Slides
-| -------- | ------- |
-| What is Generative AI and LLMs?  | Jan 2024   |  <iframe width="560" height="315" src="https://www.youtube.com/embed/AneKPA_0b0s?si=B_jBOeSkO_KIW5e5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | [PPTX](https://github.com/asimmunawar/ml-course/blob/main/docs/YouTubeVideos/WhatIsGenAI202401.pptx)
-| February | $80     |
-| March    | $420    |
-
+| Talk at YouTube    | Date    | Slides  |
+| ------------------ | ------- | ------- |
+| [What is Generative AI and LLMs?](https://youtu.be/AneKPA_0b0s?si=mnalVtWn0xMS_PEp)  | Jan 2024   | [PPTX](https://github.com/asimmunawar/ml-course/blob/main/docs/YouTubeVideos/WhatIsGenAI202401.pptx) |
+| [Can Large Language Models (LLMs) Reason?](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ml-course/blob/main/docs/YouTubeVideos/ReasoningWithLLMs202402.pptx) |
 
 
 ## [Jupyter Notebooks](https://github.com/asimmunawar/ml-course/tree/main/src/jupyter-notebooks)
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| xxx    | xxx |
+| ------ | ------- |
+| xxx.   | xxx    |
+
 
 
 ## Help me improve

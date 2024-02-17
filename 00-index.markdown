@@ -13,8 +13,14 @@ _"Dr. Asim Munawar is a research lead for the alignment of generative AI for ent
 
 To learn more about me, you can visit https://asimmunawar.github.io/
 
-## PPTX for YouTube videos
-[https://github.com/asimmunawar/ml-course/docs/YouTubeVideos](https://github.com/asimmunawar/ml-course/docs/YouTubeVideos)
+## [AI Talks and Slides (PPTX)](https://github.com/asimmunawar/ml-course/docs/YouTubeVideos)
+
+| Title    | Date | Video | Slides
+| -------- | ------- |
+| What is Generative AI and LLMs?  | Jan 2024   |  <iframe width="560" height="315" src="https://www.youtube.com/embed/AneKPA_0b0s?si=B_jBOeSkO_KIW5e5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | [PPTX](https://github.com/asimmunawar/ml-course/blob/main/docs/YouTubeVideos/WhatIsGenAI202401.pptx)
+| February | $80     |
+| March    | $420    |
+
 
 
 ## [Jupyter Notebooks](https://github.com/asimmunawar/ml-course/tree/main/src/jupyter-notebooks)

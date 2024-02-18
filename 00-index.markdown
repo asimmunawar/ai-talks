@@ -34,6 +34,11 @@ To learn more about me, visit [https://asimmunawar.github.io/](https://asimmunaw
 | [dot-product.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/dot-product.ipynb)   | Shows how dot product works.   |
 | [bahdanau-attention.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/bahdanau-attention.ipynb)/[luong-attention.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/luong-attention.ipynb) | Shows the working of different kinds of attentions |
 
+## License
+I am releasing this project (repo), under the MIT License, which permits anyone to freely use, modify, distribute, and sublicense the software. This license grants individuals and organizations the flexibility to incorporate the code into their own projects, modify it as needed, and distribute it with minimal restrictions. Users are only required to include the original copyright and license notice in any substantial portion of the software they use or distribute. The MIT License is chosen for its permissive nature, allowing for widespread collaboration and utilization of the project within the open-source community.
+
+For details, please see the full license statement at [LICENSE](https://github.com/asimmunawar/ml-course/blob/main/License).
+
 
 ## Help me improve
 You are welcome to share any suggestions/comments with me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/).

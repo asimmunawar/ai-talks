@@ -7,7 +7,7 @@ title: About the Project
 permalink: "index.html"
 ---
 
-Hi, I am **Asim Munawar**. There are 3 major motivations behind this project. 
+Hi, I am [**Asim Munawar**](https://asimmunawar.github.io/). There are 3 major motivations behind this project. 
 
 1. My main motivation is the make the talks and high-quality powerpoint slides available as open source with a very permissive license. 
 1. Some of the talks on this topic by non-experts set wrong expectations for these technologies. On the other hand, I feel, that the experts are sometimes locked in their own silos and they fail to give an unbiased view of the technology. 
@@ -35,7 +35,7 @@ To learn more about me, visit [https://asimmunawar.github.io/](https://asimmunaw
 | [bahdanau-attention.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/bahdanau-attention.ipynb)/[luong-attention.ipynb](https://github.com/asimmunawar/ml-course/blob/main/src/jupyter-notebooks/luong-attention.ipynb) | Shows the working of different kinds of attentions |
 
 ## License
-I am releasing this project (repo), under the MIT License, which permits anyone to freely use, modify, distribute, and sublicense the software. This license grants individuals and organizations the flexibility to incorporate the code into their own projects, modify it as needed, and distribute it with minimal restrictions. Users are only required to include the original copyright and license notice in any substantial portion of the software they use or distribute. The MIT License is chosen for its permissive nature, allowing for widespread collaboration and utilization of the project within the open-source community.
+I am releasing all the content under this project (repo), under the MIT License, which permits anyone to freely use, modify, distribute, and sublicense the software. This license grants individuals and organizations the flexibility to incorporate the code into their own projects, modify it as needed, and distribute it with minimal restrictions. Users are only required to include the original copyright and license notice in any substantial portion of the software they use or distribute. The MIT License is chosen for its permissive nature, allowing for widespread collaboration and utilization of the content within the open-source community.
 
 For details, please see the full license statement at [LICENSE](https://github.com/asimmunawar/ml-course/blob/main/License).
 

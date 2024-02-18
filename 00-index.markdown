@@ -17,7 +17,7 @@ Here is my short bio: _"Dr. Asim Munawar is a research lead for the alignment of
 
 To learn more about me, visit [https://asimmunawar.github.io/](https://asimmunawar.github.io/)
 
-## [AI Talks and Slides (PPTX)](https://github.com/asimmunawar/ml-course/docs/presentations) - (English)
+## AI Talks and [Slides (PPTX)](https://github.com/asimmunawar/ml-course/docs/presentations) - (English)
 
 | Talk at YouTube    | Date    | Slides  |
 | ------------------ | ------- | ------- |

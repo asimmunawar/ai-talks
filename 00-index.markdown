@@ -17,12 +17,12 @@ Here is my short bio: _"Dr. Asim Munawar is a research lead for the alignment of
 
 To learn more about me, visit [https://asimmunawar.github.io/](https://asimmunawar.github.io/)
 
-## [AI Talks and Slides (PPTX)](https://github.com/asimmunawar/ml-course/docs/YouTubeVideos) - (English)
+## [AI Talks and Slides (PPTX)](https://github.com/asimmunawar/ml-course/docs/presentations) - (English)
 
 | Talk at YouTube    | Date    | Slides  |
 | ------------------ | ------- | ------- |
-| [What is Generative AI and LLMs?](https://youtu.be/AneKPA_0b0s?si=mnalVtWn0xMS_PEp)  | Jan 2024   | [PPTX](https://github.com/asimmunawar/ml-course/blob/main/docs/YouTubeVideos/WhatIsGenAI202401.pptx) |
-| [Can Large Language Models (LLMs) Reason?](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ml-course/blob/main/docs/YouTubeVideos/ReasoningWithLLMs202402.pptx) |
+| [What is Generative AI and LLMs?](https://youtu.be/AneKPA_0b0s?si=mnalVtWn0xMS_PEp)  | Jan 2024   | [PPTX](https://github.com/asimmunawar/ml-course/blob/main/docs/presentations/WhatIsGenAI202401.pptx) |
+| [Can Large Language Models (LLMs) Reason?](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ml-course/blob/main/docs/presentations/ReasoningWithLLMs202402.pptx) |
 
 
 ## [Jupyter Notebooks](https://github.com/asimmunawar/ml-course/tree/main/src/jupyter-notebooks)

@@ -6,12 +6,11 @@ I work at [IBM TJ Watson Research Center, New York, USA](http://www.ibm.com/), w
  
 Visit [my website](https://asimmunawar.github.io/) to learn more about me :blush:.
 
+&nbsp;
 
 ## Show your Support
 
-If you find this project helpful, consider giving [ai-talks repo](https://github.com/asimmunawar/ai-talks) a ⭐️ and Follow me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/) / [X](https://x.com/asimunawar) / [YouTube](https://www.youtube.com/@asimmunawar) for the latest updates.
-
-Your support keeps the momentum going! 🌟
+If you find this project helpful, consider giving a ⭐️ to this repo and Follow me on [LinkedIn](https://www.linkedin.com/in/asimmunawar/) / [X](https://x.com/asimunawar) / [YouTube](https://www.youtube.com/@asimmunawar) for the latest updates. Your support keeps the momentum going! 🌟
 
 &nbsp;
 

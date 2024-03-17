@@ -1,6 +1,6 @@
 ## About Me
 
-I am an accomplished senior researcher, manager, and program director in the field of AI with 15+ years of experience in delivering numerous projects that have demonstrated the transformative power of AI in a range of industries.
+I am a senior researcher, manager, and program director in the field of AI with 15+ years of experience in delivering numerous projects that have demonstrated the transformative power of AI in a range of industries.
 
 I work at [IBM TJ Watson Research Center, New York, USA](http://www.ibm.com/), where I am spearheading research on making large language models (LLMs) usable for enterprise applications by developing new features for [WatsonX](https://watsonx.ai/). In addition, I also serve as Tech Advisory Board member at [Packt in India](https://www.packtpub.com/) (remote work), and Scientific and Industrial Advisory Board member at the [National Center of Artificial Intelligence-NCAI Pakistan](https://ncai.pk/).
  

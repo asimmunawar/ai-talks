@@ -1,12 +1,10 @@
-## About this Repo
-This is a repo for the slides and other materials linked to the slides.
+## About Me
 
-- List of all [my Talks](https://asimmunawar.github.io/talks/)
-- Visit [my website](https://asimmunawar.github.io/)
+I am an accomplished senior researcher, manager, and program director in the field of AI with 15+ years of experience in delivering numerous projects that have demonstrated the transformative power of AI in a range of industries.
 
-## License
-This material is released under MIT License. [See details](https://github.com/asimmunawar/ai-talks/blob/main/License).
-
+I work at [IBM TJ Watson Research Center, New York, USA](http://www.ibm.com/), where I am spearheading research on making large language models (LLMs) usable for enterprise applications by developing new features for [WatsonX](https://watsonx.ai/). In addition, I also serve as Tech Advisory Board member at [Packt in India](https://www.packtpub.com/) (remote work), and Scientific and Industrial Advisory Board member at the [National Center of Artificial Intelligence-NCAI Pakistan](https://ncai.pk/).
+ 
+Visit [my website](https://asimmunawar.github.io/) to learn more about me :blush:.
 
 
 ## Show your Support
@@ -41,4 +39,4 @@ Access all [PowerPoint (pptx) slides](https://github.com/asimmunawar/ai-talks/do
 &nbsp;
 
 ## License
-I am releasing all the talks, slides, and other resources at [AI-talks repo](https://github.com/asimmunawar/ai-talks) under MIT license. See [license](https://github.com/asimmunawar/ai-talks/blob/main/License) for details.
+I am releasing all the talks, slides, and other resources in this repo under MIT license. See [license](https://github.com/asimmunawar/ai-talks/blob/main/License) for details.

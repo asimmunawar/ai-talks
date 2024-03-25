@@ -18,9 +18,13 @@ If you find this project helpful, consider giving a ⭐️ to this repo and Foll
 
 | Talk at YouTube    | Date    | Slides  |
 | ------------------ | ------- | ------- |
-| What is Generative AI and LLMs? [English](https://youtu.be/AneKPA_0b0s?si=mnalVtWn0xMS_PEp) - [Urdu/Hindi](https://youtu.be/yS6HqwG324I)  | Jan 2024   | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/WhatIsGenAI202401.pptx) |
-| Can Large Language Models (LLMs) Reason? [English](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) - [Urdu/Hindi](https://youtu.be/UUXIqo87r-Y) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/ReasoningWithLLMs202402.pptx) |
-| A Survey of Reasoning with Foundation Models ([Arxiv](https://arxiv.org/abs/2312.11562)) [English](https://youtu.be/JxSt8jDbvHo?si=tnAdg8e-pUvMckl7) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/003-SurveyOfReasoning202402.pptx) |
+| What is Generative AI and LLMs? [English](https://youtu.be/AneKPA_0b0s?si=mnalVtWn0xMS_PEp) - [Urdu/Hindi](https://youtu.be/yS6HqwG324I)  | Jan 2024   | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202401-WhatIsGenAI.pptx) |
+| Can Large Language Models (LLMs) Reason? [English](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) - [Urdu/Hindi](https://youtu.be/UUXIqo87r-Y) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202402-ReasoningWithLLMs.pptx) |
+| A Survey of Reasoning with Foundation Models ([Arxiv](https://arxiv.org/abs/2312.11562)) [English](https://youtu.be/JxSt8jDbvHo?si=tnAdg8e-pUvMckl7) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202402-SurveyOfReasoning.pptx) |
+
+
+
+
 
 Access all [PowerPoint (pptx) slides](https://github.com/asimmunawar/ai-talks/docs/presentations).
 

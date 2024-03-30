@@ -20,11 +20,8 @@ If you find this project helpful, consider giving a ⭐️ to this repo and Foll
 | ------------------ | ------- | ------- |
 | What is Generative AI and LLMs? [English](https://youtu.be/AneKPA_0b0s?si=mnalVtWn0xMS_PEp) - [Urdu/Hindi](https://youtu.be/yS6HqwG324I)  | Jan 2024   | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202401-WhatIsGenAI.pptx) |
 | Can Large Language Models (LLMs) Reason? [English](https://youtu.be/RXG85xI23-o?si=4BTeNuh4iRQm9Asy) - [Urdu/Hindi](https://youtu.be/UUXIqo87r-Y) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202402-ReasoningWithLLMs.pptx) |
-| A Survey of Reasoning with Foundation Models ([Arxiv](https://arxiv.org/abs/2312.11562)) [English](https://youtu.be/JxSt8jDbvHo?si=tnAdg8e-pUvMckl7) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202402-SurveyOfReasoning.pptx) |
-
-
-
-
+| Self-Discover: Large Language Models Self-Compose Reasoning Structures ([Arxiv](https://arxiv.org/abs/2402.03620)) [English](https://youtu.be/hBabY-oDCbs) - [Urdu/Hindi](https://youtu.be/QqejFtUCjgo) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/20240324-SelfDiscover.pptx) |
+| Taming Large Language Models / Alignment / RLHF [English](https://youtu.be/nCh_pJhDD8I) - [Urdu/Hindi](https://youtu.be/AyrubLwZbtQ) | Feb 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/20240324-Alighnment.pptx) |
 
 Access all [PowerPoint (pptx) slides](https://github.com/asimmunawar/ai-talks/docs/presentations).
 

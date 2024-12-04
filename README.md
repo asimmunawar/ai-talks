@@ -24,6 +24,7 @@ If you find this project helpful, consider giving a ⭐️ to this repo and Foll
 | Self-Discover: Large Language Models Self-Compose Reasoning Structures ([Arxiv](https://arxiv.org/abs/2402.03620)) [English](https://youtu.be/hBabY-oDCbs) - [Urdu/Hindi](https://youtu.be/QqejFtUCjgo) | Mar 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/20240324-SelfDiscover.pptx) |
 | Taming Large Language Models / Alignment / RLHF [English](https://youtu.be/nCh_pJhDD8I) - [Urdu/Hindi](https://youtu.be/AyrubLwZbtQ) | Mar 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/20240324-Alighnment.pptx) |
 | AGI - Artificial General Intelligence [English](TBD) - [Urdu/Hindi](TBD) | May 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202405-AGI.pptx) |
+| Language Models (LLMs)based Reasoning:Opportunities & Pitfalls @ Purdue University [English](https://youtu.be/uHe_5J3v5-I?si=sQwL6C4sGI4FZip8) | Nov 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202411-LLM-TalkPurdue.pptx) |
 
 Access all [PowerPoint slides here](https://github.com/asimmunawar/ai-talks/docs/presentations).
 

@@ -25,6 +25,8 @@ If you find this project helpful, consider giving a ⭐️ to this repo and Foll
 | Taming Large Language Models / Alignment / RLHF [English](https://youtu.be/nCh_pJhDD8I) - [Urdu/Hindi](https://youtu.be/AyrubLwZbtQ) | Mar 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/20240324-Alighnment.pptx) |
 | AGI - Artificial General Intelligence [English](TBD) - [Urdu/Hindi](TBD) | May 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202405-AGI.pptx) |
 | Language Models (LLMs) based Reasoning: Opportunities & Pitfalls @ Purdue University [English](https://youtu.be/uHe_5J3v5-I?si=sQwL6C4sGI4FZip8) | Nov 2024 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202411-LLM-TalkPurdue.pptx) |
+| Reasoning Revolution: Cracking the code of LLM Intelligence @ [ACMSE](https://acmse.net/2025/schedule-keynotes/) | April 2025 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202504-LLM-TalkACMSE.pptx) |
+| Reasoning Revolution: Cracking the code of LLM Intelligence @ [NSE - ICSE 2025](https://conf.researchr.org/home/icse-2025/nse-2025#program) | April 2025 | [PPTX](https://github.com/asimmunawar/ai-talks/blob/main/docs/presentations/202505-LLM-TalkNSEICSE2025.pptx) |
 
 Access all [PowerPoint slides here](https://github.com/asimmunawar/ai-talks/docs/presentations).
 

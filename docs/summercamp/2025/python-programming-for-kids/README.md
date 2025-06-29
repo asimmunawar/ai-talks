@@ -11,8 +11,8 @@ Each class includes a PowerPoint presentation covering interactive lessons, fun 
 
 | Class | Slide Deck | Description |
 |-------|------------|-------------|
-| Class 1 | [class1.pptx](./class1.pptx) | **Intro to Computers & Python**: What makes computers "dumb"? How do they use 0s and 1s? Learn what programming is and write your very first Python code (`print("Hello, world!")`). Includes fun exercises like giving step-by-step instructions to a robot. |
-| Class 2 | [class2.pptx](./class2.pptx) | **Variables, Inputs & Logic**: Learn how to store information using variables, take input from users, and use `if/else` statements to make decisions in code. Includes mini-games and story-based logic examples to keep learning fun. |
+| Class1 | [class1.pptx](./class1.pptx) | **Intro to Computers & Python**: What makes computers "dumb"? How do they use 0s and 1s? Learn what programming is and write your very first Python code (`print("Hello, world!")`). Includes fun exercises like giving step-by-step instructions to a robot. |
+| Class2 | [class2.pptx](./class2.pptx) | **Variables, Inputs & Logic**: Learn how to store information using variables, take input from users, and use `if/else` statements to make decisions in code. Includes mini-games and story-based logic examples to keep learning fun. |
 
 ---
 

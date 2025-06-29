@@ -1,7 +1,7 @@
 ## About Me
 
 - I am a senior researcher, manager, and program director in the field of AI with 15+ years of experience.
-- I work at [IBM TJ Watson Research Center, New York, USA](http://www.ibm.com/)
+- I work at [IBM TJ Watson Research Center, New York, USA](https://research.ibm.com/)
 
 Visit [my website](https://asimmunawar.github.io/) to learn more about me :blush:.
 

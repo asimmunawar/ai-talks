@@ -31,5 +31,7 @@ This beginner-friendly course is designed for kids who have completed 3rd grade 
 
 Visit [Python Programming for Kids](https://github.com/asimmunawar/ai-talks/tree/main/docs/summercamp/2025/python-programming-for-kids)
 
+&nbsp;
+
 ## License
 I am releasing all the talks, slides, and other resources in this repo under MIT license. See [license](https://github.com/asimmunawar/ai-talks/blob/main/License) for details.

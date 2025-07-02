@@ -1,0 +1,57 @@
+
+# 1️⃣ Even or Odd
+num = 8
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+
+# 2️⃣ Voting Age Checker
+age = 14
+if age >= 18:
+    print("You can vote!")
+else:
+    print("You are too young to vote.")
+
+# 3️⃣ Mood Bot
+mood = "bored"
+if mood == "happy":
+    print("Yay! Keep smiling! 😊")
+elif mood == "sad":
+    print("Cheer up! Things will get better. 🌈")
+elif mood == "bored":
+    print("Why not try something fun? 🎲")
+else:
+    print("Hmm, I don't understand that mood.")
+
+# 4️⃣ Temperature Advisor
+temp = 75
+if temp > 85:
+    print("It's hot!")
+elif temp >= 60:
+    print("It's nice outside.")
+else:
+    print("It's cold!")
+
+# 5️⃣ Word Battle
+word1 = "cat"
+word2 = "dog"
+if word1 < word2:
+    print(f'"{word1}" comes before "{word2}" alphabetically.')
+elif word1 > word2:
+    print(f'"{word2}" comes before "{word1}" alphabetically.')
+else:
+    print("Both words are the same.")
+
+# 🌟 Bonus Challenge: Grade Feedback
+score = 85
+if score >= 90:
+    print("Excellent!")
+elif score >= 80:
+    print("Great job!")
+elif score >= 70:
+    print("Good effort")
+elif score >= 60:
+    print("Keep practicing")
+else:
+    print("Don't give up!")

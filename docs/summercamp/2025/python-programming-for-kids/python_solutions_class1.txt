@@ -1,0 +1,47 @@
+Python Homework Solutions
+
+1️⃣ Hello, My Name Is...
+name = "Ali"
+print("Hello! My name is", name + ".")
+print("I am learning Python. 🚀")
+
+---
+
+2️⃣ Fruit Basket Math
+apples = 4
+bananas = 3
+print("Total fruits =", apples + bananas)
+
+---
+
+3️⃣ Make a Welcome Banner
+name = "Afan"
+print("*" * 20)
+print("*** Welcome,", name, "***")
+print("*" * 20)
+
+---
+
+4️⃣ Build a Robot Conversation
+user = "Umar"
+bot = "🤖 Robo"
+print(user + ": Hi!")
+print(bot + ": Hello " + user + ", how can I help?")
+
+---
+
+5️⃣ ASCII Art Drawing
+print("   /\")
+print("  /  \")
+print(" /____\")
+print("|      |")
+print("|______|")
+
+---
+
+🌟 Bonus Challenge: Print a Table of Squares
+print("1 x 1 =", 1 * 1)
+print("2 x 2 =", 2 * 2)
+print("3 x 3 =", 3 * 3)
+print("4 x 4 =", 4 * 4)
+print("5 x 5 =", 5 * 5)

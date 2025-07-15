@@ -1,0 +1,78 @@
+
+Python Functions - Homework with Solutions (Easy & Fun)
+
+1. 🎉 Say Welcome
+Question: Write a function called say_welcome that prints:
+"🎈 Welcome to our Python class!" Call it two times.
+
+Answer:
+def say_welcome():
+    print("🎈 Welcome to our Python class!")
+
+say_welcome()
+say_welcome()
+
+2. 🧁 Favorite Dessert
+Question: Write a function called favorite_dessert(dessert) that prints:
+"Yum! I love <dessert> too!" Try it with "cake", "ice cream", and "donuts".
+
+Answer:
+def favorite_dessert(dessert):
+    print("Yum! I love", dessert, "too!")
+
+favorite_dessert("cake")
+favorite_dessert("ice cream")
+favorite_dessert("donuts")
+
+3. 🧮 Triple the Fun
+Question: Write a function triple(number) that returns 3 times the number.
+Call it with 4, 7, and 10, and print the results.
+
+Answer:
+def triple(number):
+    return number * 3
+
+print(triple(4))
+print(triple(7))
+print(triple(10))
+
+4. 🐾 Animal Sound
+Question: Write a function make_sound(animal) that prints:
+"The <animal> goes ..." and you decide the sound. Try with "dog", "cat", and "duck".
+
+Answer:
+def make_sound(animal):
+    if animal == "dog":
+        print("The dog goes woof!")
+    elif animal == "cat":
+        print("The cat goes meow!")
+    elif animal == "duck":
+        print("The duck goes quack!")
+    else:
+        print("I don't know that animal's sound!")
+
+make_sound("dog")
+make_sound("cat")
+make_sound("duck")
+
+5. 🗓️ Miles to Km converter
+Question: Write a function miles_to_km(miles) that converts miles to km.
+
+Answer:
+def miles_to_km(miles):
+    return miles * 1.60934
+
+print(miles_to_km(1))
+print(miles_to_km(5))
+print(miles_to_km(10))
+
+🌟 Bonus Challenge: 💬 Echo Machine
+Question: Write a function echo(word, times) that prints the word many times using a loop.
+Example: echo("Hi!", 3) prints "Hi!" three times.
+
+Answer:
+def echo(word, times):
+    for i in range(times):
+        print(word)
+
+echo("Hi!", 3)

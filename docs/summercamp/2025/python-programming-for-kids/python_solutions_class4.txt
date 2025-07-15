@@ -1,0 +1,69 @@
+
+List Homework - Answer Key for Parents
+
+1. 📋 List Your Favorite Things
+--------------------------------
+hobbies = []
+for i in range(3):
+    hobby = input("Enter a hobby: ")
+    hobbies.append(hobby)
+
+print("Your hobbies:")
+for h in hobbies:
+    print(h)
+
+2. 🐾 Animal Guessing
+----------------------
+animals = ["dog", "cat", "elephant", "lion", "tiger"]
+guess = input("Guess an animal: ")
+
+if guess.lower() in animals:
+    print("Yes, that’s in the list!")
+else:
+    print("Nope, try again!")
+
+3. 📈 Average Finder
+---------------------
+numbers = []
+for i in range(4):
+    num = int(input("Enter a number: "))
+    numbers.append(num)
+
+total = 0
+for n in numbers:
+    total += n
+
+average = total / len(numbers)
+print("Average is:", average)
+
+4. 🆚 Even or Odd
+------------------
+nums = []
+for i in range(5):
+    nums.append(int(input("Enter a number: ")))
+
+for n in nums:
+    if n % 2 == 0:
+        print(n, "is Even")
+    else:
+        print(n, "is Odd")
+
+5. 🔤 Alphabetical Sorting
+---------------------------
+fruits = []
+for i in range(5):
+    fruits.append(input("Enter a fruit: "))
+
+fruits.sort()
+print("Sorted fruits:", fruits)
+
+🌟 Bonus Challenge: ✂️ Remove Items
+-----------------------------------
+items = ["apple", "banana", "grape", "orange", "banana"]
+to_remove = input("Enter a fruit to remove: ")
+
+if to_remove in items:
+    items.remove(to_remove)
+    print("Updated list:", items)
+else:
+    print("That fruit is not in the list.")

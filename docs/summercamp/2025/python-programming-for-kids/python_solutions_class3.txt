@@ -1,0 +1,51 @@
+
+Class 3 Homework - Answer Key for Parents
+
+1. Simple Print Loop
+--------------------
+for i in range(10):
+    print("My name is Ali")
+
+2. Count by Twos (Modified to Print Odd Numbers)
+------------------------------------------------
+num = int(input("Enter a number: "))
+for i in range(1, num+1, 2):
+    print(i)
+
+3. Triangle Builder
+-------------------
+rows = int(input("How many rows? "))
+for i in range(rows):
+    print("X" * (i + 1))
+
+# Optional: Balanced triangle
+for i in range(rows):
+    spaces = rows - i - 1
+    print(" " * spaces + "X" * (2 * i + 1))
+
+4. Guess the Secret Number
+--------------------------
+secret = 7
+guess = int(input("Guess a number between 1 and 10: "))
+if guess == secret:
+    print("🎉 Correct!")
+else:
+    print("❌ Wrong! Try again.")
+
+Bonus Challenge: Understanding the Code
+---------------------------------------
+# Code Explanation:
+# The loop allows the user to enter a password up to 3 times.
+# If the password is correct, it prints "Access granted!" and exits the loop using break.
+# If all 3 attempts are wrong, it shows "You are locked out."
+
+password = "python123"
+for attempt in range(3):
+    guess = input("Enter the password: ")
+    if guess == password:
+        print("🔓 Access granted!")
+        break
+    else:
+        print("❌ Wrong password.")
+else:
+    print("🔒 You are locked out.")

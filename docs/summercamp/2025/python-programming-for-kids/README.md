@@ -16,15 +16,26 @@ Each class includes a PowerPoint presentation covering interactive lessons, fun 
 | 3 | [class3.pptx](./class3.pptx) | **Loops & Repetition**: Discover how `for` and `while` loops help you repeat actions. Build simple animations, counting games, and patterns. Great for building step-by-step thinking. |
 | 4 | [class4.pptx](./class4.pptx) | **Lists**: Store multiple items (like a shopping list or game scores) in one variable. Learn how to loop over them and find useful patterns. |
 | 5 | [class5.pptx](./class5.pptx) | **Functions & Reuse**: Learn how to group code using `def`. Reuse logic, build smarter programs, and understand how to structure your code like real developers. |
+| 6 | [class6.pptx](./class6.pptx) | **File Handling**: Learn how to read from and write to files. Build your own note-taking or secret message saver app using text files. Understand how data lives beyond the program run. |
+| 7 | [class7.pptx](./class7.pptx) | **Project Day – Build Your App**: Kids start putting everything together to build a simple app (calculator, secret notes, flashcards, or quiz games). Focus on problem-solving and creativity. |
+| 8 | [class8.pptx](./class8.pptx) | **Showcase & Review**: Final class to present projects, review key concepts, and explore next steps for curious coders. Includes a fun recap quiz and certificates of completion! |
 
 ---
 
 ## 🧠 What Kids Will Learn
+
 - How computers understand instructions
 - Basics of Python syntax
 - Critical thinking through coding puzzles
-
-Stay tuned! More classes will be added soon.
+- Building real apps from scratch
 
 ---
-👩‍🏫 **Instructor Notes**: These slides are meant to be used alongside live instruction or self-guided exploration in Google Colab or Replit.
+
+📂 **Answer Keys**  
+Answer keys for exercises and quizzes are also provided in this repository for instructors and parents.  
+🚫 **Please do not share these with the students** to preserve the learning experience.
+
+---
+
+👩‍🏫 **Instructor Notes**  
+These slides are meant to be used alongside live instruction or self-guided exploration in Google Colab.

@@ -1,0 +1,72 @@
+
+📚 Python Library Homework Solutions
+
+1. 🎲 Random Number Guess
+Use the `random` library to pick a number between 1 and 10.
+Ask the user to guess the number. Tell them if they’re right or wrong.
+
+✅ Solution:
+import random
+secret = random.randint(1, 10)
+guess = int(input("Guess a number between 1 and 10: "))
+if guess == secret:
+    print("🎉 Correct!")
+else:
+    print("❌ Wrong! The number was", secret)
+
+
+2. 📏 Square Root Calculator
+Import the `math` library and write a function that takes a number and prints its square root.
+
+✅ Solution:
+import math
+def square_root(num):
+    print("Square root is:", math.sqrt(num))
+square_root(25)
+
+
+3. 🎨 ASCII Art Name
+Use the `art` library (pip install art) to print your name in fancy ASCII text.
+
+✅ Solution:
+!pip install art
+from art import tprint
+tprint("Asim")
+
+
+4. 🎯 Save and Load File: My Secret Note
+Write a program that asks the user to enter a secret message, then:
+- Saves the message in a file called secret.txt
+- Reads the message back from the file and prints it with:
+  "Your secret message was: <message>"
+
+✅ Solution:
+msg = input("Enter your secret message: ")
+with open("secret.txt", "w") as f:
+    f.write(msg)
+with open("secret.txt", "r") as f:
+    content = f.read()
+    print("Your secret message was:", content)
+
+
+5. ⏱ Countdown Timer
+Import `time` and write a loop that counts down from 5 to 1, pausing 1 second between each.
+
+✅ Solution:
+import time
+for i in range(5, 0, -1):
+    print(i)
+    time.sleep(1)
+
+
+🌟 Bonus Challenge: 📷 Image Magic
+Use `cv2` (OpenCV) and `urllib` to load an image from the web and show a grayscale version of it using `matplotlib`.
+(Hint: You can use the example shown in class!)
+
+✅ Solution:
+import cv2, urllib.request, numpy as np, matplotlib.pyplot as plt
+url = "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg"
+data = np.asarray(bytearray(urllib.request.urlopen(url).read()), dtype="uint8")
+img = cv2.imdecode(data, cv2.IMREAD_GRAYSCALE)
+plt.imshow(img, cmap="gray"); plt.axis("off"); plt.title("Grayscale")
+plt.show()

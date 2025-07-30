@@ -3,6 +3,8 @@
 Welcome to the **Python Programming for Kids** course, part of the 2025 Summer Camp series!  
 This beginner-friendly course is designed for kids who have completed 3rd grade or above, with no prior coding experience required.
 
+<img width="1536" height="1024" alt="Course Banner" src="https://github.com/user-attachments/assets/e96ff65e-f078-4409-8601-215e61de75a9" />
+
 Each class includes a PowerPoint presentation covering interactive lessons, fun exercises, and hands-on coding activities.
 
 ---
